@@ -1,4 +1,3 @@
 print("goodbye;")
 print("goodbye world;")
-print("Goodbye my dear;")hi again
-a brand new line
+print("Goodbye my dear;")not a line
