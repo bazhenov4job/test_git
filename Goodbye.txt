@@ -1,4 +1,3 @@
-print("goodbye;")
-print("goodbye world;")
-print("Goodbye my dear;")
-print("some crap")
+print("goodbye")
+print("goodbye world")
+print("Goodbye my dear")
